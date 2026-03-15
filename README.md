@@ -37,7 +37,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ### 📡 Other Technologies
-- Arduino & IoT
 - Data Visualization
 - REST APIs
 - Machine Learning Models
@@ -72,11 +71,11 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashvin-mehra-7a97b1322/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Yashvin12)
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](yashvinmehra@gmail.com)
 
 ---
 
