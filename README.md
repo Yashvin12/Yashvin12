@@ -45,9 +45,10 @@
 
 ## 📌 Featured Projects
 
-### 📊 FinSight AI
-- AI-powered financial analysis platform
-- Real-time stock insights and predictions
+### 🔍 SkillLens – AI-Powered Skill Gap Analyzer  
+An AI-based platform that analyzes resumes to detect skill gaps and suggest personalized career paths.  
+Built with NLP & ML, it provides actionable insights to improve user profiles.  
+Features include resume parsing, recommendations, and an interactive dashboard.  
 
 ### 📊 FinSight AI
 - AI-powered financial analysis platform
