@@ -45,6 +45,14 @@
 
 ## 📌 Featured Projects
 
+### 📊 FinSight AI
+- AI-powered financial analysis platform
+- Real-time stock insights and predictions
+
+### 📊 FinSight AI
+- AI-powered financial analysis platform
+- Real-time stock insights and predictions
+- 
 ### 🔄 ETL Data Pipeline
 - Developed an **ETL (Extract, Transform, Load) pipeline** to process and manage structured datasets
 - Extracts data from raw sources, cleans and transforms it using Python
@@ -54,11 +62,7 @@
 ### 📰 Fake News Detection System
 - Machine learning model to classify fake and real news
 - Tech Stack: Python, Scikit-learn, NLP
-
-### 📊 FinSight AI
-- AI-powered financial analysis platform
-- Real-time stock insights and predictions
-
+  
 ---
 
 ## 📊 GitHub Stats
