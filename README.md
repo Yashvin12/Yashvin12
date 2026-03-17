@@ -63,9 +63,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashvin12&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashvin12&show_icons=true&theme=tokyonight&include_all_commits=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvin12&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashvin12&theme=tokyo-night)
 
 ---
 
