@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Yashvin+Mehra;AI+%26+Data+Science+Student;Building+Real+World+Projects;Hackathon+Enthusiast" />
 # Hi 👋, I'm Yashvin
 
 🎓 AI & Data Science Student  
@@ -68,11 +69,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashvin12&show_icons=true&theme=tokyonight&include_all_commits=false)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yashvin12&show_icons=true&theme=tokyonight&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvin12&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashvin12&layout=compact&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashvin12&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yashvin12&theme=tokyo-night)
+
+![Snake animation](https://github.com/Yashvin12/Yashvin12/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
