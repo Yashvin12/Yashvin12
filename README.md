@@ -1,8 +1,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Yashvin+Mehra;AI+%26+Data+Science+Student;Building+Real+World+Projects;Hackathon+Enthusiast" />
-# Hi 👋, I'm Yashvin
 
-🎓 AI & Data Science Student  
-💡 Passionate about Machine Learning, Data Science, and Backend Development  
+## Hi 👋, I'm Yashvin
+
+
 🚀 Building real-world AI projects and continuously learning new technologies  
 
 ---
