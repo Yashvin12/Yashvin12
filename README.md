@@ -1,95 +1,161 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Yashvin+Mehra;AI+%26+Data+Science+Student;Building+Real+World+Projects;Hackathon+Enthusiast" />
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:007CF0,100:1A1A2E&height=250&section=header&text=Yashvin%20Mehra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+</h2>
 
-## 🚀 About Me
-
-- 🎓 Third Year B.E. Student in **Artificial Intelligence & Data Science**
-- 🤖 Interested in **Machine Learning, AI Applications, and Data Analytics**
-- 📈 Currently working on **Stock Price Prediction using ML & LSTM**
-- 🧠 Learning **FastAPI, AWS, LangChain, and AI tools**
-- 🔍 Exploring **Real-time AI systems and data-driven applications**
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-
-### 📊 Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-### ⚙️ Backend Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-### 📡 Other Technologies
-- Data Visualization
-- REST APIs
-- Machine Learning Models
-
----
-
-## 📌 Featured Projects
-
-### 🔍 SkillLens – AI-Powered Skill Gap Analyzer  
-- An AI-based platform that analyzes resumes to detect skill gaps and suggest personalized career paths.  
-- Built with NLP & ML, it provides actionable insights to improve user profiles.  
-- Features include resume parsing, recommendations, and an interactive dashboard.  
-
-### 📊 FinSight AI
-- AI-powered financial analysis platform
-- Real-time stock insights and predictions
-  
-### 🔄 ETL Data Pipeline
-- Developed an **ETL (Extract, Transform, Load) pipeline** to process and manage structured datasets
-- Extracts data from raw sources, cleans and transforms it using Python
-- Loads the processed data into a structured format for analysis and further processing
-- **Tech Stack:** Python, Pandas, Data Processing, Automation
-
-### 📰 Fake News Detection System
-- Machine learning model to classify fake and real news
-- Tech Stack: Python, Scikit-learn, NLP
-  
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yashvin12&show_icons=true&theme=tokyonight&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashvin12&layout=compact&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yashvin12&theme=tokyo-night)
-
-![Snake animation](https://github.com/Yashvin12/Yashvin12/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashvin-mehra-7a97b1322/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Yashvin12)
-
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](yashvinmehra@gmail.com)
-
----
-
-⭐ From [Yashvin](https://github.com/YOUR_USERNAME)
+<h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer" />
+🎓 Third Year B.E. Student in <b>Artificial Intelligence & Data Science</b><br>
+🤖 Passionate about <b>Machine Learning, AI Systems, and Data Analytics</b><br>
+📈 Building scalable and real-world AI-powered applications<br>
+🧠 Exploring <b>FastAPI, AWS, LangChain, Streamlit & Generative AI</b><br>
+🏎️ Interested in analytics, intelligent systems, and data visualization
+</p>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3 align="center">👨‍💻 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+</p>
+
+<h3 align="center">📊 Data Science & Machine Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+</p>
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+</p>
+
+<h3 align="center">🎨 Frontend Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+</p>
+
+<h3 align="center">☁️ Cloud & Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
+
+---
+
+<h2 align="center">📌 Featured Projects</h2>
+
+### ⚖️ NyaayPath — AI-Powered Legal Assistance Platform
+- Developed an AI-driven legal assistance platform aimed at simplifying access to legal guidance and government schemes for citizens.
+- Integrated NLP-based query understanding and intelligent recommendation systems for legal information retrieval.
+- Features include AI chatbot assistance, multilingual support, legal resource recommendations, and document guidance.
+- Focused on accessibility, scalability, and real-world social impact.
+
+**Tech Stack:** Python, FastAPI, NLP, Machine Learning, React, TailwindCSS
+
+---
+
+### 🔍 SkillLens — AI-Powered Skill Gap Analyzer
+- AI-powered platform that analyzes resumes to identify missing skills and recommend personalized career growth paths.
+- Uses NLP and Machine Learning techniques for intelligent resume parsing and recommendation generation.
+- Includes interactive dashboards and career-focused analytics.
+
+**Tech Stack:** Python, NLP, Machine Learning, React, FastAPI
+
+---
+
+### 🥗 Drishti Poshan — AI Nutrition & Health Intelligence System
+- Developed an AI-powered nutrition analysis platform focused on improving dietary awareness and healthy lifestyle tracking.
+- Uses intelligent data analysis and health-based recommendations to provide personalized nutrition insights.
+- Includes food analysis, nutritional breakdowns, health recommendations, and interactive dashboards.
+- Designed to promote accessible and data-driven health monitoring solutions.
+
+**Tech Stack:** Python, Machine Learning, Data Analytics, FastAPI, React
+
+---
+
+### 🏎️ F1 Intelligence Dashboard
+- Built a production-grade Formula 1 analytics dashboard using historical F1 data from 1950–2024.
+- Provides advanced insights into pit stop strategy, driver performance, telemetry analysis, and race trends.
+- Developed interactive visualizations including lap analysis, consistency metrics, performance rankings, and telemetry dashboards.
+- Implemented modular architecture with optimized data pipelines, caching strategies, and responsive analytics UI.
+- Designed using enterprise-level data engineering and visualization practices.
+
+**Tech Stack:** Python, Streamlit, Plotly, Pandas, Data Visualization, Analytics
+
+---
+
+### 📊 FinSight AI — Intelligent Financial Analysis System
+- AI-powered financial analytics platform delivering real-time stock insights and predictive analysis.
+- Integrated LSTM and Machine Learning models for market forecasting and trend analysis.
+
+**Tech Stack:** Python, LSTM, Scikit-learn, FastAPI
+
+---
+
+### 🔄 ETL Data Pipeline
+- Built an automated ETL pipeline for extracting, transforming, and loading structured datasets.
+- Improved data preprocessing workflows and automation efficiency for analytics systems.
+
+**Tech Stack:** Python, Pandas, Automation
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yashvin12&show_icons=true&theme=tokyonight&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashvin12&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yashvin12&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Yashvin12/Yashvin12/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashvin-mehra-7a97b1322/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://github.com/Yashvin12">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="mailto:yashvinmehra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer"/>
 </p>
