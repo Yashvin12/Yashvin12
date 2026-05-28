@@ -1,298 +1,161 @@
-<div align="center">
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:007CF0,100:1A1A2E&height=250&section=header&text=Yashvin%20Mehra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+</h2>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HEADER BANNER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 align="center">🚀 About Me</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:C56CD6,50:3B82F6,75:06B6D4,100:10B981&height=280&section=header&text=Yashvin%20Mehra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Full%20Stack&descSize=20&descAlignY=58&descAlign=50" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SOCIAL BADGES -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<a href="https://www.linkedin.com/in/yashvin-mehra-7a97b1322/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Yashvin12">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:yashvinmehra@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Yashvin12&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C56CD6&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%9A%80+About+Me" alt="About Me" />
-
-</div>
-
-```
-🎓 Third Year B.E. Student — Artificial Intelligence & Data Science
-```
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 What I Do
-
-- 🤖 Build intelligent **ML/AI systems** that solve real-world problems  
-- 📊 Craft **data-driven insights** with beautiful visualizations  
-- ⚡ Design **scalable backends** with FastAPI & cloud infrastructure  
-- 🎯 Ship **full-stack applications** from prototype to production
-
-</td>
-<td width="50%">
-
-### 🔭 What I'm Exploring
-
-- 🦜 **LangChain** & Generative AI pipelines  
-- ☁️ **AWS** cloud architecture & deployment  
-- 📱 **Streamlit** for rapid ML prototyping  
-- 🔗 End-to-end **MLOps** workflows
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" alt="Tech Stack" />
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-**💻 Languages**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
-
-</td>
-<td align="center" width="25%">
-
-**📊 Data & ML**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-
-</td>
-<td align="center" width="25%">
-
-**⚙️ Backend**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark" />
-
-</td>
-<td align="center" width="25%">
-
-**🎨 Frontend & Cloud**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,aws&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%8F%86+Featured+Projects" alt="Featured Projects" />
-
-</div>
-
-<br/>
-
-<!-- PROJECT CARD 1 -->
-<table>
-<tr>
-<td>
-
-### ⚖️ NyaayPath — AI-Powered Legal Assistance Platform
-
-<img align="right" width="80" src="https://img.shields.io/badge/★_Featured-FF6B6B?style=for-the-badge&labelColor=1a1a2e"/>
-
-> **Simplifying legal access for every citizen through AI**
-
-- 🤖 NLP-based query understanding & intelligent legal recommendation engine  
-- 🌐 Multilingual support with AI chatbot for real-time legal guidance  
-- 📄 Smart document guidance & government scheme matching  
-- 🎯 Built for **accessibility, scalability, and social impact**
-
-<br/>
-
-`Python` `FastAPI` `NLP` `Machine Learning` `React` `TailwindCSS`
+<p align="center">
+🎓 Third Year B.E. Student in <b>Artificial Intelligence & Data Science</b><br>
+🤖 Passionate about <b>Machine Learning, AI Systems, and Data Analytics</b><br>
+📈 Building scalable and real-world AI-powered applications<br>
+🧠 Exploring <b>FastAPI, AWS, LangChain, Streamlit & Generative AI</b><br>
+🏎️ Interested in analytics, intelligent systems, and data visualization
+</p>
 
 ---
 
-### 🏎️ F1 Intelligence Dashboard
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<img align="right" width="80" src="https://img.shields.io/badge/★_Featured-C56CD6?style=for-the-badge&labelColor=1a1a2e"/>
+<h3 align="center">👨‍💻 Programming Languages</h3>
 
-> **Production-grade Formula 1 analytics • 1950–2024**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+</p>
 
-- 📈 Advanced pit stop strategy, telemetry analysis & performance rankings  
-- 📊 Interactive lap analysis, consistency metrics & race trend visualizations  
-- ⚡ Modular architecture with optimized data pipelines & caching strategies  
-- 🏗️ Enterprise-level data engineering & responsive analytics UI
+<h3 align="center">📊 Data Science & Machine Learning</h3>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+</p>
 
-`Python` `Streamlit` `Plotly` `Pandas` `Data Visualization` `Analytics`
+<h3 align="center">⚙️ Backend Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+</p>
+
+<h3 align="center">🎨 Frontend Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+</p>
+
+<h3 align="center">☁️ Cloud & Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
+
+---
+
+<h2 align="center">📌 Featured Projects</h2>
+
+### ⚖️ NyaayPath — AI-Powered Legal Assistance Platform
+- Developed an AI-driven legal assistance platform aimed at simplifying access to legal guidance and government schemes for citizens.
+- Integrated NLP-based query understanding and intelligent recommendation systems for legal information retrieval.
+- Features include AI chatbot assistance, multilingual support, legal resource recommendations, and document guidance.
+- Focused on accessibility, scalability, and real-world social impact.
+
+**Tech Stack:** Python, FastAPI, NLP, Machine Learning, React, TailwindCSS
 
 ---
 
 ### 🔍 SkillLens — AI-Powered Skill Gap Analyzer
+- AI-powered platform that analyzes resumes to identify missing skills and recommend personalized career growth paths.
+- Uses NLP and Machine Learning techniques for intelligent resume parsing and recommendation generation.
+- Includes interactive dashboards and career-focused analytics.
 
-<img align="right" width="80" src="https://img.shields.io/badge/★_Featured-3B82F6?style=for-the-badge&labelColor=1a1a2e"/>
-
-> **AI that reads your resume and maps your career growth path**
-
-- 📄 Intelligent resume parsing using NLP & ML techniques  
-- 🎯 Personalized skill gap identification & career recommendation engine  
-- 📊 Interactive career-focused analytics dashboards  
-- 🚀 Actionable insights for professional development
-
-<br/>
-
-`Python` `NLP` `Machine Learning` `React` `FastAPI`
+**Tech Stack:** Python, NLP, Machine Learning, React, FastAPI
 
 ---
 
-### 🥗 Drishti Poshan — AI Nutrition & Health Intelligence
+### 🥗 Drishti Poshan — AI Nutrition & Health Intelligence System
+- Developed an AI-powered nutrition analysis platform focused on improving dietary awareness and healthy lifestyle tracking.
+- Uses intelligent data analysis and health-based recommendations to provide personalized nutrition insights.
+- Includes food analysis, nutritional breakdowns, health recommendations, and interactive dashboards.
+- Designed to promote accessible and data-driven health monitoring solutions.
 
-<img align="right" width="80" src="https://img.shields.io/badge/★_Featured-06B6D4?style=for-the-badge&labelColor=1a1a2e"/>
-
-> **Data-driven nutrition insights for healthier living**
-
-- 🍎 AI-powered food analysis with detailed nutritional breakdowns  
-- 💊 Personalized health recommendations using intelligent data analysis  
-- 📊 Interactive health monitoring dashboards  
-- 🌍 Accessible & data-driven wellness solution
-
-<br/>
-
-`Python` `Machine Learning` `Data Analytics` `FastAPI` `React`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- MORE PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<details>
-<summary><h3>📂 More Projects (click to expand)</h3></summary>
-
-<br/>
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 📊 **FinSight AI** | AI-powered financial analytics with real-time stock insights, LSTM-based market forecasting & trend analysis | `Python` `LSTM` `Scikit-learn` `FastAPI` |
-| 🔄 **ETL Data Pipeline** | Automated extract-transform-load pipeline for structured datasets, improving data preprocessing workflows & analytics automation | `Python` `Pandas` `Automation` |
-
-</details>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB ANALYTICS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%93%88+GitHub+Analytics" alt="GitHub Analytics" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yashvin12&show_icons=true&theme=radical&include_all_commits=true&border_radius=15&hide_border=true&bg_color=0d1117&title_color=C56CD6&icon_color=3B82F6&text_color=c9d1d9" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashvin12&layout=compact&theme=radical&border_radius=15&hide_border=true&bg_color=0d1117&title_color=C56CD6&text_color=c9d1d9" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashvin12&theme=radical&hide_border=true&background=0d1117&ring=C56CD6&fire=FF6B6B&currStreakLabel=3B82F6&sideLabels=c9d1d9&dates=555555&border_radius=15" width="700"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashvin12&theme=react-dark&hide_border=true&bg_color=0d1117&color=C56CD6&line=3B82F6&point=FF6B6B&area=true&area_color=C56CD6" width="95%"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SNAKE ANIMATION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yashvin12/Yashvin12/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yashvin12/Yashvin12/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Yashvin12/Yashvin12/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- QUOTE + FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
-
-<br/><br/>
+**Tech Stack:** Python, Machine Learning, Data Analytics, FastAPI, React
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=555555&center=true&vCenter=true&random=false&width=400&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="Footer" />
+### 🏎️ F1 Intelligence Dashboard
+- Built a production-grade Formula 1 analytics dashboard using historical F1 data from 1950–2024.
+- Provides advanced insights into pit stop strategy, driver performance, telemetry analysis, and race trends.
+- Developed interactive visualizations including lap analysis, consistency metrics, performance rankings, and telemetry dashboards.
+- Implemented modular architecture with optimized data pipelines, caching strategies, and responsive analytics UI.
+- Designed using enterprise-level data engineering and visualization practices.
 
-<br/><br/>
+**Tech Stack:** Python, Streamlit, Plotly, Pandas, Data Visualization, Analytics
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,25:06B6D4,50:3B82F6,75:C56CD6,100:FF6B6B&height=120&section=footer" width="100%"/>
+---
 
-</div>
+### 📊 FinSight AI — Intelligent Financial Analysis System
+- AI-powered financial analytics platform delivering real-time stock insights and predictive analysis.
+- Integrated LSTM and Machine Learning models for market forecasting and trend analysis.
+
+**Tech Stack:** Python, LSTM, Scikit-learn, FastAPI
+
+---
+
+### 🔄 ETL Data Pipeline
+- Built an automated ETL pipeline for extracting, transforming, and loading structured datasets.
+- Improved data preprocessing workflows and automation efficiency for analytics systems.
+
+**Tech Stack:** Python, Pandas, Automation
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yashvin12&show_icons=true&theme=tokyonight&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashvin12&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yashvin12&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Yashvin12/Yashvin12/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashvin-mehra-7a97b1322/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://github.com/Yashvin12">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="mailto:yashvinmehra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer"/>
+</p>
