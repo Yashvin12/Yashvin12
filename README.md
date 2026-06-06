@@ -77,162 +77,95 @@
 ---
 
 <h2 align="center">📌 Featured Projects</h2>
-
+<br>
+<div align="center">
+<a href="https://github.com/Yashvin12/NyaayPath">
+  <img src="https://img.shields.io/badge/⚖️%20NyaayPath-Legal%20AI-993C1D?style=for-the-badge&labelColor=FAECE7" />
+</a>
+</div>
+<br>
+<p align="center"><b>AI-Powered Legal Assistance Platform</b></p>
+<p align="center">NLP-powered platform simplifying access to legal guidance and government schemes for citizens — multilingual chatbot, intelligent legal resource retrieval, and document assistance focused on real-world social impact.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/NLP-7F77DD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css"/>
+</p>
 <br>
 
-<!--  NyaayPath  -->
-<table>
-<tr>
-<td width="70" align="center" valign="top">
 <br>
-<img src="https://img.shields.io/badge/⚖️-Legal_AI-D85A30?style=for-the-badge"/>
-</td>
-<td valign="top">
-
-### ⚖️ NyaayPath — AI-Powered Legal Assistance Platform
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-![NLP](https://img.shields.io/badge/NLP-Machine_Learning-blueviolet?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
-
-> Simplifying access to legal guidance and government schemes for Indian citizens via AI
-
-| Feature | Details |
-|---------|---------|
-| 🤖 AI Chatbot | Multilingual NLP-based query understanding |
-| 📄 Document Guidance | Intelligent legal resource retrieval & recommendations |
-| 🌐 Accessibility | Designed for real-world social impact & scalability |
-
-</td>
-</tr>
-</table>
-
+<div align="center">
+<a href="https://github.com/Yashvin12/Closira">
+  <img src="https://img.shields.io/badge/📡%20Closira-Full%20Stack-0F6E56?style=for-the-badge&labelColor=E1F5EE" />
+</a>
+</div>
+<br>
+<p align="center"><b>AI Customer Communication Platform for SMBs</b></p>
+<p align="center">Full-stack platform handling WhatsApp, Email & Phone enquiries via SOP keyword matching and intelligent auto-escalation. React Native mobile dashboard powered by async Celery + Redis processing and a fully dockerized backend.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
 <br>
 
-<!--  Closira  -->
-<table>
-<tr>
-<td width="70" align="center" valign="top">
 <br>
-<img src="https://img.shields.io/badge/📡-Full_Stack-1D9E75?style=for-the-badge"/>
-</td>
-<td valign="top">
-
-### 📡 Closira — AI Customer Communication Platform for SMBs
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-> Handles WhatsApp, Email & Phone enquiries with intelligent SOP matching and auto-escalation
-
-| Feature | Details |
-|---------|---------|
-| 🔁 Async Processing | Celery + Redis workers — zero polling race conditions |
-| 🧠 SOP Engine | Word-boundary-aware regex + keyword confidence scoring |
-| 📱 Mobile Dashboard | React Native (Expo) for real-time escalation management |
-| 🐳 DevOps | Fully dockerized with structured JSON logging & Alembic migrations |
-
-</td>
-</tr>
-</table>
-
+<div align="center">
+<a href="https://github.com/Yashvin12/SkillLens">
+  <img src="https://img.shields.io/badge/🔍%20SkillLens-NLP%20·%20ML-534AB7?style=for-the-badge&labelColor=EEEDFE" />
+</a>
+</div>
+<br>
+<p align="center"><b>AI-Powered Skill Gap Analyzer</b></p>
+<p align="center">Analyzes resumes against job descriptions to calculate ATS match scores, surface missing skills, and recommend personalized learning paths — powered by TF-IDF job matching and an end-to-end NLP parsing pipeline.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-7F77DD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+</p>
 <br>
 
-<!--  SkillLens  -->
-<table>
-<tr>
-<td width="70" align="center" valign="top">
 <br>
-<img src="https://img.shields.io/badge/🔍-NLP_·_ML-7F77DD?style=for-the-badge"/>
-</td>
-<td valign="top">
-
-### 🔍 SkillLens — AI-Powered Skill Gap Analyzer
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-blueviolet?style=flat-square)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-
-> Resume analysis platform that calculates ATS scores and recommends personalized career paths
-
-| Feature | Details |
-|---------|---------|
-| 📄 Resume Parser | PyMuPDF-based PDF extraction with section detection |
-| 🎯 Skill Matching | TF-IDF job matching with skill gap identification |
-| 📊 Career Analytics | Interactive dashboards with learning path recommendations |
-
-</td>
-</tr>
-</table>
-
+<div align="center">
+<a href="https://github.com/Yashvin12/Drishti-Poshan">
+  <img src="https://img.shields.io/badge/🥗%20Drishti%20Poshan-AI%20·%20Health-0F6E56?style=for-the-badge&labelColor=E1F5EE" />
+</a>
+</div>
+<br>
+<p align="center"><b>AI Nutrition & Health Intelligence System</b></p>
+<p align="center">Offline-first PWA transforming Anganwadi child nutrition tracking from reactive to proactive — XGBoost forecasts health trajectories 60 days ahead, SHAP delivers explainable AI breakdowns for field workers, and Groq Cloud automates OCR of physical records.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SHAP-7F77DD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Groq_Cloud-1D9E75?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_PWA-20232A?style=flat-square&logo=react"/>
+</p>
 <br>
 
-<!--  Drishti Poshan  -->
-<table>
-<tr>
-<td width="70" align="center" valign="top">
 <br>
-<img src="https://img.shields.io/badge/🥗-AI_·_Health-1D9E75?style=for-the-badge"/>
-</td>
-<td valign="top">
-
-### 🥗 Drishti Poshan — AI Nutrition & Health Intelligence System
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-blueviolet?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq_Cloud-OCR-black?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React_PWA-20232A?style=flat-square&logo=react)
-
-> Offline-first platform transforming Anganwadi child nutrition tracking from reactive to proactive
-
-| Feature | Details |
-|---------|---------|
-| 📈 Forecasting | XGBoost predicts child health trajectories **60 days** ahead |
-| 🧠 Explainable AI | SHAP breakdowns give health workers medical-style justifications |
-| 📷 OCR Pipeline | Groq Cloud AI automates digitization of physical field forms |
-| 📴 Offline-First | Progressive Web App for rural connectivity constraints |
-
-</td>
-</tr>
-</table>
-
+<div align="center">
+<a href="https://github.com/Yashvin12/F1-Analytics_Dashboard">
+  <img src="https://img.shields.io/badge/🏎️%20F1%20Intelligence-Analytics-185FA5?style=for-the-badge&labelColor=E6F1FB" />
+</a>
+</div>
 <br>
-
-<!--  F1 Dashboard  -->
-<table>
-<tr>
-<td width="70" align="center" valign="top">
-<br>
-<img src="https://img.shields.io/badge/🏎️-Analytics-378ADD?style=for-the-badge"/>
-</td>
-<td valign="top">
-
-### 🏎️ F1 Intelligence Dashboard — Production-Grade Analytics Platform
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-
-> Enterprise-level Formula 1 analytics across **75 years** of race data (1950–2024)
-
-| Module | Coverage |
-|--------|---------|
-| 🛞 Pit Stop Analysis | Era-by-era crew ranking, outlier detection, risk assessment |
-| 📡 Telemetry | Lap-by-lap performance, consistency scoring, trend tracking |
-| 🏆 Driver Rankings | All-time performance metrics & race comparison dashboards |
-| ⚙️ Architecture | Modular pipelines with caching, optimized data engineering |
-
-</td>
-</tr>
-</table>
-
+<p align="center"><b>Production-Grade Formula 1 Analytics Platform</b></p>
+<p align="center">Enterprise-level F1 analytics across 75 years of race data (1950–2024) — covering pit stop strategy, era-by-era crew rankings, lap telemetry, consistency scoring, and outlier detection. Built with modular data pipelines and optimized caching.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+</p>
 <br>
 
 ---
