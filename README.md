@@ -79,146 +79,181 @@
 <h2 align="center">📌 Featured Projects</h2>
 <br>
 <div align="center">
-<h2 align="center">✨ Featured Projects</h2>
-
 <table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚖️ NyaayPath
-
-AI-powered legal assistance platform improving access to legal guidance and government schemes through intelligent retrieval.
-
-**Highlights**
-
-* Multilingual legal chatbot
-* NLP + legal resource retrieval
-* Document assistance workflows
-* Built for accessibility & real-world use
-
-**Stack**
-`FastAPI` `React` `PostgreSQL` `NLP`
-
-<a href="https://github.com/Yashvin12/NyaayPath">→ View Project</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📡 Closira
-
-Customer communication platform for SMBs that centralizes and automates enquiries across channels.
-
-**Highlights**
-
-* WhatsApp, Email & Phone workflows
-* SOP-based routing & escalation
-* Async processing with Celery + Redis
-* Dockerized backend architecture
-
-**Stack**
-`FastAPI` `PostgreSQL` `Redis` `Celery` `Docker`
-
-<a href="https://github.com/Yashvin12/Closira">→ View Project</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔍 SkillLens
-
-AI system for evaluating resumes against job requirements and identifying skill gaps.
-
-**Highlights**
-
-* ATS compatibility scoring
-* Resume ↔ JD semantic matching
-* Missing skill detection
-* Personalized recommendations
-
-**Stack**
-`Python` `Scikit-Learn` `FastAPI` `React`
-
-<a href="https://github.com/Yashvin12/SkillLens">→ View Project</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🥗 Drishti Poshan
-
-Offline-first nutrition intelligence platform designed for predictive healthcare monitoring.
-
-**Highlights**
-
-* 60-day health forecasting
-* Explainable AI using SHAP
-* OCR-powered data extraction
-* Optimized for field usage
-
-**Stack**
-`XGBoost` `SHAP` `PostgreSQL` `React PWA`
-
-<a href="https://github.com/Yashvin12/Drishti-Poshan">→ View Project</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" valign="top">
-
-### 🏎️ F1 Intelligence Dashboard
-
-Historical Formula 1 analytics platform covering race trends, telemetry, and performance insights.
-
-**Highlights**
-
-* 75 years of F1 data analysis
-* Strategy & consistency insights
-* Telemetry exploration
-* Modular analytics pipelines
-
-**Stack**
-`Python` `Streamlit` `Plotly` `Pandas`
-
-<a href="https://github.com/Yashvin12/F1-Analytics_Dashboard">→ View Project</a>
-
-</td>
-
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚖️ NyaayPath</h3>
+      <p>AI-powered legal assistance platform improving access to legal guidance and government schemes through intelligent retrieval.</p>
+      <p>
+        <b>Highlights</b><br>
+        ✅ Multilingual legal chatbot<br>
+        ✅ NLP + legal resource retrieval<br>
+        ✅ Document assistance workflows<br>
+        ✅ Built for accessibility & real-world use
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://github.com/Yashvin12/NyaayPath">
+          <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+        &nbsp;
+        <a href="[https://nyaaypath.vercel.app](https://nyaay-path-ai.vercel.app/)">
+          <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 Closira</h3>
+      <p>Customer communication platform for SMBs that centralizes and automates enquiries across channels.</p>
+      <p>
+        <b>Highlights</b><br>
+        ✅ WhatsApp, Email & Phone workflows<br>
+        ✅ SOP-based routing & escalation<br>
+        ✅ Async processing with Celery + Redis<br>
+        ✅ Dockerized backend architecture
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://github.com/Yashvin12/Closira">
+          <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+        &nbsp;
+        <a href="https://closira.vercel.app">
+          <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 SkillLens</h3>
+      <p>AI system for evaluating resumes against job requirements and identifying skill gaps with semantic analysis.</p>
+      <p>
+        <b>Highlights</b><br>
+        ✅ ATS compatibility scoring<br>
+        ✅ Resume ↔ JD semantic matching<br>
+        ✅ Missing skill detection<br>
+        ✅ Personalized recommendations
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      </p>
+      <p>
+        <a href="https://github.com/Yashvin12/SkillLens">
+          <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥗 Drishti Poshan</h3>
+      <p>Offline-first nutrition intelligence platform designed for predictive healthcare monitoring in field conditions.</p>
+      <p>
+        <b>Highlights</b><br>
+        ✅ 60-day health forecasting<br>
+        ✅ Explainable AI using SHAP<br>
+        ✅ OCR-powered data extraction<br>
+        ✅ Optimized for field usage
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SHAP-7B2FBE?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_PWA-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      </p>
+      <p>
+        <a href="https://github.com/Yashvin12/Drishti-Poshan">
+          <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏎️ F1 Intelligence Dashboard</h3>
+      <p>Historical Formula 1 analytics platform covering race trends, telemetry, and performance insights across 75 years of data.</p>
+      <p>
+        <b>Highlights</b><br>
+        ✅ 75 years of F1 data analysis &nbsp;|&nbsp; ✅ Strategy & consistency insights &nbsp;|&nbsp; ✅ Telemetry exploration &nbsp;|&nbsp; ✅ Modular analytics pipelines
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://github.com/Yashvin12/F1-Analytics_Dashboard">
+          <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+        &nbsp;
+        <a href="https://f1-analytics-dashboard-yashvin.streamlit.app">
+          <img src="https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
-
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
-
+  
+## 📊 GitHub Stats & Coding Activity
 <p align="center">
-  <a href="https://www.linkedin.com/in/yashvin-mehra-7a97b1322/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-  <a href="https://github.com/Yashvin12">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
-
-  <a href="mailto:yashvinmehra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashvin12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvin12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashvin12&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashvin12&bg_color=0D1117&color=00F7FF&line=007CF0&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
+
 ---
 
+  
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yashvin12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+</p>
+
+
+---
+
+  
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashvin-mehra-7a97b1322/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yashvin_Mehra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Yashvin12">
+    <img src="https://img.shields.io/badge/GitHub-Yashvin12-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:yashvinmehra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yashvinmehra@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+---
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer"/>
 </p>
