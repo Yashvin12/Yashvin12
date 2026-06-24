@@ -11,7 +11,7 @@
 🧠 Exploring <b>FastAPI, AWS, LangChain, Streamlit & Generative AI</b><br>
 🏎️ Interested in analytics, intelligent systems, and data visualization
 </p>
-<p align="center"> <a href="https://portfolio-yashvin.vercel.app/"> <img src="https://img.shields.io/badge/🌐_Portfolio-View_My_Work-00F7FF?style=for-the-badge&logo=vercel&logoColor=000000"/> </a> </p>
+<p> 🌐 <b>Portfolio:</b> <a href="https://portfolio-yashvin.vercel.app/">View My Work</a> </p>
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
