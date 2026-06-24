@@ -207,7 +207,7 @@
     </td>
   </tr>
 </table>
----
+
 
   
 ## 📊 GitHub Stats & Coding Activity
@@ -221,15 +221,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashvin12&bg_color=0D1117&color=00F7FF&line=007CF0&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-
----
-
-  
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yashvin12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 </p>
 
 
@@ -250,10 +241,14 @@
     <img src="https://img.shields.io/badge/Email-yashvinmehra@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
----
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer"/>
+    &nbsp;
+  <a href="[View](https://portfolio-yashvin.vercel.app/)">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
