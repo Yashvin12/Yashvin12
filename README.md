@@ -11,7 +11,7 @@
 🧠 Exploring <b>FastAPI, AWS, LangChain, Streamlit & Generative AI</b><br>
 🏎️ Interested in analytics, intelligent systems, and data visualization
 </p>
-
+<p align="center"> <a href="https://portfolio-yashvin.vercel.app/"> <img src="https://img.shields.io/badge/🌐_Portfolio-View_My_Work-00F7FF?style=for-the-badge&logo=vercel&logoColor=000000"/> </a> </p>
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -224,10 +224,11 @@
 </p>
 
 
+```html
 ---
 
-  
 ## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/yashvin-mehra-7a97b1322/">
     <img src="https://img.shields.io/badge/LinkedIn-Yashvin_Mehra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -240,15 +241,17 @@
   <a href="mailto:yashvinmehra@gmail.com">
     <img src="https://img.shields.io/badge/Email-yashvinmehra@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://portfolio-yashvin.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-00F7FF?style=for-the-badge&logo=vercel&logoColor=000000"/>
+  </a>
 </p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer"/>
-    &nbsp;
-  <a href="[View](https://portfolio-yashvin.vercel.app/)">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:007CF0,100:1A1A2E&height=120&section=footer"/>
 </p>
+```
