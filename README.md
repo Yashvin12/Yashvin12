@@ -224,7 +224,6 @@
 </p>
 
 
-```html
 ---
 
 ## 🌐 Connect With Me
