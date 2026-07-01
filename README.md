@@ -181,27 +181,28 @@
       </p>
     </td>
   </tr>
-  <tr>
+   <tr>
     <td colspan="2" valign="top">
-      <h3>🏎️ F1 Intelligence Dashboard</h3>
-      <p>Historical Formula 1 analytics platform covering race trends, telemetry, and performance insights across 75 years of data.</p>
+      <h3>🚆 TrackMind</h3>
+      <p>AI-powered railway network control centre — a co-pilot for section controllers that predicts conflicts before they happen and explains every recommendation with SHAP-based explainability.</p>
       <p>
         <b>Highlights</b><br>
-        ✅ 75 years of F1 data analysis &nbsp;|&nbsp; ✅ Strategy & consistency insights &nbsp;|&nbsp; ✅ Telemetry exploration &nbsp;|&nbsp; ✅ Modular analytics pipelines
+        ✅ Real-time digital twin simulation (SimPy, 2Hz WebSocket) &nbsp;|&nbsp; ✅ 8-type proactive conflict detection &nbsp;|&nbsp; ✅ CP-SAT schedule optimization (OR-Tools) &nbsp;|&nbsp; ✅ Explainable AI with SHAP + XGBoost delay forecasting &nbsp;|&nbsp; ✅ What-If scenario lab for disruption analysis
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SimPy-Digital_Twin-4B8BBE?style=flat-square"/>
+        <img src="https://img.shields.io/badge/OR--Tools-CP--SAT-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
       <p>
-        <a href="https://github.com/Yashvin12/F1-Analytics_Dashboard">
+        <a href="https://github.com/Yashvin12/TrackMind">
           <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github"/>
-        </a>
-        &nbsp;
-        <a href="https://f1-analytics-dashboard-yashvin.streamlit.app">
-          <img src="https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
         </a>
       </p>
     </td>
